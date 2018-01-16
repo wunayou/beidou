@@ -10,7 +10,7 @@
 
 ```bash  
 $ npm init
-$ npm ii beidou-core --save  
+$ npm i beidou-core --save  
 ```  
 
 > 说明： 本章节提到的路径未经特别说明均是相对于项目根路径而言。
